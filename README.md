@@ -1,4 +1,39 @@
-<div align="center">
+
+<div align="center" width="50">
+
+<!-- AI / Engineering Banner Image -->
+<img src="/mnt/data/a_high_resolution_futuristic_tech_themed_banner_i.png" 
+alt="AI Engineering Banner" width="90%"/>
+
+<br>
+
+<!-- Profile Title -->
+<h1>Eng Mohamed Elghamry👨‍💻 </h1>
+<h3>Mechatronics Engineer | Automation • AI • PLC • Smart Home Systems</h3>
+
+<br>
+
+<!-- Workspace Image -->
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
+alt="Workspace" width="40%"/>
+
+<br>
+
+<details>
+<p><strong><summary>🚀 Focus Areas</summary></strong></p>
+
+- 🤖 Artificial Intelligence (AI)
+- ⚙️ Industrial Automation
+- 🔌 PLC Programming
+- 🏠 Smart Home Systems (IoT)
+- 🧠 Control Systems
+- 💻 Programming & Embedded Systems
+
+</details>
+
+</div>
+
+<hr></hr>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0F6E56,100:185FA5&height=220&section=header&text=AI%20%26%20Mechatronics%20Engineer&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Automation%20%7C%20Artificial%20Intelligence%20%7C%20Control%20Systems%20%7C%20Robotics&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
