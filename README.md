@@ -111,14 +111,14 @@ class MohamedElGhamry:
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │           MOHAMED EL-GHAMRY — ENGINEERING STACK                 │
-├────────────────┬───────────────┬───────────────┬───────────────┤
+├────────────────┬───────────────┬───────────────┬─────────────── ┤
 │   AI Layer     │ Control Layer │ Hardware Layer │ Software Dev  │
-├────────────────┼───────────────┼───────────────┼───────────────┤
-│ ML Models      │ PID / MPC     │ PLC / MCU     │ Python / C++  │
-│ CV Pipeline    │ SCADA / HMI   │ Sensors       │ APIs / DBs    │
-│ Prediction     │ Ladder Logic  │ Actuators     │ Dashboards    │
-│ Optimization   │ MATLAB/Sim    │ ESP32 / STM32 │ Git / Linux   │
-└────────────────┴───────────────┴───────────────┴───────────────┘
+├────────────────┼───────────────┼───────────────┼─────────────── ┤
+│ ML Models      │ PID / MPC     │ PLC / MCU     │ Python / C++   │
+│ CV Pipeline    │ SCADA / HMI   │ Sensors       │ APIs / DBs     │
+│ Prediction     │ Ladder Logic  │ Actuators     │ Dashboards     │
+│ Optimization   │ MATLAB/Sim    │ ESP32 / STM32 │ Git / Linux    │
+└────────────────┴───────────────┴───────────────┴───────────────-┘
 ```
 
 ---
